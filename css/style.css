@@ -273,7 +273,7 @@ a {
         padding-left: 35px;
         padding-right: 35px;
     }
-    .sub__text {
+    .content__sub {
         margin: 39px 20px 20px;
         width: auto;
         text-align: center;
@@ -414,7 +414,7 @@ a {
         font-size: 19px;
         line-height: 1.5;
     }
-    .sup__text {
+    .content__sup {
         margin: 0px 1px;
         line-height: 39px;
         font-size: 36px;
